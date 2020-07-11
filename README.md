@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **rajbheda5/rajbheda5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Raj Bheda :man_technologist:
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-bheda-952b18130/)](https://www.linkedin.com/in/raj-bheda-952b18130/)
+
+### Hellooo! 👋 Welcome to my profile
+
+My name is Raj and ...:
+
+ - 😄 I really like to convert ideas to working applications
+ - 📊 I'm currently working on Flutter
+ - 📚 Currently studying Java
+ - 📷 And I'm also passionate for macro photography
