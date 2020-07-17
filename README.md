@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # Raj Bheda :man_technologist:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raj-bheda-952b18130/)](https://www.linkedin.com/in/raj-bheda-952b18130/)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/rajbheda5) [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rajbheda5/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/raj.bheda)
 
 ### Hellooo! 👋 Welcome to my profile
 
@@ -25,3 +25,5 @@ My name is Raj and ...:
  - 📊 I'm currently working on Flutter
  - 📚 Currently studying Java
  - 📷 And I'm also passionate for macro photography
+
+![Flutter](https://github.com/rajbheda5/rajbheda5/blob/master/flutter.gif)
